@@ -1,5 +1,7 @@
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 
+[![Build status](https://ci.appveyor.com/api/projects/status/gjgq11799uj27xrr?svg=true)](https://ci.appveyor.com/project/kayatkin/js-advanced-diploma)
+
 ###### tags: `netology` `advanced js`
 
 ## Предыстория
