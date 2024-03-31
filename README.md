@@ -2,6 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/gjgq11799uj27xrr?svg=true)](https://ci.appveyor.com/project/kayatkin/js-advanced-diploma)
 
+https://kayatkin.github.io/js-advanced-diploma/
+
 ###### tags: `netology` `advanced js`
 
 ## Предыстория
