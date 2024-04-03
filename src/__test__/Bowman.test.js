@@ -38,6 +38,6 @@ test('check create new Bowman & throw error while creating new Character', () =>
     // eslint-disable-next-line no-unused-vars
     const character = new Character(1);
   } catch (error) {
-    expect(error.message).toBe('Недопустимый класс персонажа');
+    expect(error.message).toBe('Объект класса Character не может создаваться "new Character()"');
   }
 });
