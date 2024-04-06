@@ -19,7 +19,7 @@ build_script:
 test_script:
   - npm run lint # скрипт тестирования
 
-deploy_script:
+deploy:
   - provider: GitHub
     auth_token:
       secure: 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
