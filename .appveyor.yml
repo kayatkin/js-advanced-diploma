@@ -22,7 +22,7 @@ test_script:
 deploy:
   - provider: GitHub
     auth_token:
-      secure: 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
+      secure: jSNTSH26Ss8RtWjChj1AWDXeELh9I0Q/uKoxiXGTsPLfcqLb1COazs5jC41/SUh1
     edge: true
     cleanup: false
     on:
